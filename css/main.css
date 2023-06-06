@@ -4,4 +4,6 @@
 
 
 /* Block */
+@import './blocks/btn.css';
 @import './blocks/header.css';
+@import './blocks/home.css';
