@@ -98,7 +98,6 @@
 
 .step-img-wrapper {
   position: relative;
-  background-color: #01996D;
   padding-bottom: 126%;
 
   /* высота/ширина и выйдет 126% */
@@ -108,6 +107,7 @@
   position: absolute;
   left: 0;
   top: 0;
+  border-radius: 8px;
   
   width: 100%;
   height: 100%;
