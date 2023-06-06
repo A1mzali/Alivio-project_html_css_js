@@ -1,5 +1,9 @@
 /* Base */
-@import './base.css';
+@import './base/reset.css';
+@import './base/base.css';
+
 
 /* Block */
+@import './blocks/btn.css';
 @import './blocks/header.css';
+@import './blocks/home.css';
