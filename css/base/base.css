@@ -7,6 +7,12 @@ body {
   /* min-width: 1600px; */
 }
 
+@media(max-width: 991px){
+  body {
+    font-size: 20px;
+  }
+}
+
 .none {
   display: none !important;
 }
