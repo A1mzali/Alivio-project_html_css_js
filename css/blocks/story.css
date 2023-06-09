@@ -44,6 +44,8 @@ padding: 229px 0 176px;
 .story-video {
   max-width: 895px;
   position: relative;
+  border-radius: 18px;
+  overflow: hidden;
 }
 
 .story-video-overlay {
@@ -65,6 +67,3 @@ padding: 229px 0 176px;
 
 }
 
-.story-video-object {
-  border-radius: 16px;
-}
